@@ -1,0 +1,12 @@
+02/15/2016 11:22
+Beginning of the Report
+________________________
+172.20.20.1 is reachable
+172.20.20.3 is reachable
+172.20.20.4 is reachable
+172.20.20.6 is reachable
+172.20.20.7 is reachable
+172.20.20.8 is reachable
+172.20.20.9 is reachable
+________________________
+End of Report

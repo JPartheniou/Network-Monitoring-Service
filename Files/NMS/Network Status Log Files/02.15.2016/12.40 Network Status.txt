@@ -1,0 +1,17 @@
+02/15/2016 12:38
+Beginning of the Report
+________________________
+172.20.20.1 is reachable
+172.20.20.3 is reachable
+172.20.20.4 is reachable
+fmifs.fmi.gr is reachable
+172.20.20.6 is reachable
+172.20.20.7 is reachable
+172.20.20.8 is reachable
+172.20.20.9 is reachable
+fmiexch.fmi.gr is NOT reachable
+172.20.20.11 is NOT reachable
+172.20.20.12 is NOT reachable
+172.20.20.13 is NOT reachable
+________________________
+End of Report
